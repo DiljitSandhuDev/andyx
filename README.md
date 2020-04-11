@@ -1,4 +1,4 @@
-![AndyXBanner]()
+![AndyXBanner](https://raw.githubusercontent.com/DiljitSandhuDev/AndyX/master/index.png)
 
 # About
 AndyX, called Andy most of the time, is a general purpose Discord bot, with almost every common need and more. It has rich features, that you would love.
