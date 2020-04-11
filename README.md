@@ -29,6 +29,10 @@ Andy is actively developed, and will be. I bring out many new commands, if you w
 # Latest News
 Andy is being re-written with whole new UX, and many new cool features, with updated Discord.js version.
 
+# Bot Info
+* Library: discord.js v11 (v12 in rewrite WIP)
+* Status: Being Re-Written
+
 # Developer
 DjDeveloper ([Github](https://github.com/DiljitSandhuDev)) (Discord: DjDeveloper#7777 (Tag might change, refer to TOP.GG page for correct tag); ID: 422957901716652033)
 
